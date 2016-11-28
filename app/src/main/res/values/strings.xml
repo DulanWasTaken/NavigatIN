@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigatIN</string>
+    <string name="action_settings">Opciones</string>
+    <string name="alertDialog_network_action">Ir a ajustes</string>
+    <string name="alertDialog_network_cancel">Cancelar</string>
+    <string name="alertDialog_network_msg">Es necesario activar los datos móviles y GPS</string>
+    <string name="snackBarLocationEnabled">Localización activada</string>
+    <string name="snackBarLocationDisabled">Localización desactivada</string>
+</resources>
